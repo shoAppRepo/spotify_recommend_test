@@ -1,0 +1,2 @@
+# spotify_recommend_test
+spotify apiを利用したレコメンド機能を簡易的に作ってみる
